@@ -1,0 +1,7 @@
+D:\Tai_Lieu\convert docx to pdf use Microsoft.Office.Interop.Word\bin\Debug\convert docx to pdf use Microsoft.Office.Interop.Word.exe.config
+D:\Tai_Lieu\convert docx to pdf use Microsoft.Office.Interop.Word\bin\Debug\convert docx to pdf use Microsoft.Office.Interop.Word.exe
+D:\Tai_Lieu\convert docx to pdf use Microsoft.Office.Interop.Word\bin\Debug\convert docx to pdf use Microsoft.Office.Interop.Word.pdb
+D:\Tai_Lieu\convert docx to pdf use Microsoft.Office.Interop.Word\obj\Debug\convert docx to pdf use Microsoft.Office.Interop.Word.csproj.AssemblyReference.cache
+D:\Tai_Lieu\convert docx to pdf use Microsoft.Office.Interop.Word\obj\Debug\convert docx to pdf use Microsoft.Office.Interop.Word.csproj.CoreCompileInputs.cache
+D:\Tai_Lieu\convert docx to pdf use Microsoft.Office.Interop.Word\obj\Debug\convert docx to pdf use Microsoft.Office.Interop.Word.exe
+D:\Tai_Lieu\convert docx to pdf use Microsoft.Office.Interop.Word\obj\Debug\convert docx to pdf use Microsoft.Office.Interop.Word.pdb

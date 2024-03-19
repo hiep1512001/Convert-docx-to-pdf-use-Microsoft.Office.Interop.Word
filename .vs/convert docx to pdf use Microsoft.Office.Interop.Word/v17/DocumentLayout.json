@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tai_Lieu\\convert docx to pdf use Microsoft.Office.Interop.Word\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C37C87DC-1D5F-4BC8-ADCE-4D2A3A129EA8}|convert docx to pdf use Microsoft.Office.Interop.Word.csproj|d:\\tai_lieu\\convert docx to pdf use microsoft.office.interop.word\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37C87DC-1D5F-4BC8-ADCE-4D2A3A129EA8}|convert docx to pdf use Microsoft.Office.Interop.Word.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tai_Lieu\\convert docx to pdf use Microsoft.Office.Interop.Word\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Tai_Lieu\\convert docx to pdf use Microsoft.Office.Interop.Word\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwBUAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:04:50.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
